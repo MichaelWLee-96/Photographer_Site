@@ -3,6 +3,23 @@ html{
 }
 ul{
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+}
+li{
+    float: left;
+}
+li a{
+    display:block;
+    color: hotpink;
+    text-align: center;
+    text-decoration: none;
+    padding: 18px 20px;
+}
+li a:hover{
+    background-color: black
 }
 .header-nav{
     display: flex;
