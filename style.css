@@ -7,6 +7,7 @@ ul{
     padding: 0;
     overflow: hidden;
     background-color: aquamarine;
+    border-radius: 25px;
 }
 li{
     float: left;
@@ -33,4 +34,7 @@ li a:hover{
 h1{
     text-align: center;
     text-decoration-color: black;
+}
+.carousel-control-prev, .carousel-control-next, .carousel-indicators{
+   background-color: rgba (0,0,0,0.5); 
 }
