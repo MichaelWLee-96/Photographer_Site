@@ -207,9 +207,10 @@ h4{
 .experience{
     font-size: 15px;
     margin: 8px 12px;
-    text-align: center;
-    transform: translate(123px, 123px);
+    text-align: left;
+    transform: translate(123px, 128px);
     outline: 4px solid aquamarine;
+    outline-offset: 5px;
     border-radius: 9px;
     float: left;
     position: relative;
