@@ -223,3 +223,19 @@ h4{
     position: relative;
     background-color: white;
 }
+.container{
+    width: 1000px;
+    height: 800px;
+    transform: translate(140px, 40px);
+}
+.row img{
+    outline-offset: 0.5px;
+    outline: 4px solid aquamarine;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    width: 980px;
+    height: 780px;
+    border-radius: 9px;
+    transform: translateY(20px);
+}
