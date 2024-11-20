@@ -224,18 +224,19 @@ h4{
     background-color: white;
 }
 .container{
-    width: 1000px;
-    height: 800px;
-    transform: translate(140px, 40px);
+    transform: translate(30px, 20px);
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto;
+    grid-column-gap: 20px;
 }
 .row img{
     outline-offset: 0.5px;
     outline: 4px solid aquamarine;
     object-fit: cover;
     object-position: center;
-    display: block;
-    width: 980px;
-    height: 780px;
+    width: 550px;
+    height: 430px;
     border-radius: 9px;
     transform: translateY(20px);
 }
