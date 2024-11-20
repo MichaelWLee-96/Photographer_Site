@@ -15,4 +15,4 @@ Future improvements include:
 2. review section from customers and request to add review.
 3. web page for purchasing and repurchasing photographs.
 
-Hosting link: 
+Hosting link: https://michaelwlee-96.github.io/Photographer_Site/
